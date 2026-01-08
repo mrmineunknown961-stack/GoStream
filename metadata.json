@@ -1,0 +1,8 @@
+{
+  "name": "GoStream - Multi-Platform Streaming Hub",
+  "description": "A powerful dashboard for streamers to broadcast to Twitch, YouTube, Facebook, and Kick simultaneously with AI-powered enhancements.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
